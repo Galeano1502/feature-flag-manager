@@ -1,0 +1,13 @@
+{
+  "name": "@feature-flag/rule-engine",
+  "version": "1.0.0",
+  "main": "dist/evaluator.js",
+  "types": "dist/evaluator.d.ts",
+  "scripts": {
+    "build": "tsc"
+  },
+  "devDependencies": {
+    "@types/node": "^20.0.0",
+    "typescript": "^5.0.0"
+  }
+}
